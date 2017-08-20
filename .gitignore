@@ -1,0 +1,5 @@
+*.ipch
+*.tlog
+*.lastbuildstate
+*.manifest
+*.idb
